@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "비교견적서 자동 생성",
-  description: "PDF 업로드 후 비교견적서 생성",
+  title: "온누리퀵 배송비 조회",
+  description: "테스트 페이지",
 };
 
 export default function RootLayout({
